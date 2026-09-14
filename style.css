@@ -1,0 +1,67 @@
+img{
+    width: 700px;
+    border-radius: 30px;
+}
+
+body{
+    background-color: antiquewhite
+}
+
+footer{
+    text-align: center;
+    font-size: x-large;
+    color: gray;
+}
+
+header{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 100px;
+}
+
+.introduce{
+    font-size: x-large;
+    margin-top: 120px;
+}
+
+.profile{
+    background-color: #fff;
+    border-radius: 20px;
+    margin: 100px;
+    padding:100px;
+    display: flex;
+    gap: 130px;
+}
+main{
+    margin-top: 150px;
+    max-width: 100%;
+}
+
+.card{
+    background-color: bisque;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 30px;
+    width: 80%;
+    font-size: x-large;
+}
+
+.list{
+    background-color: #fff;
+    margin: 100px;
+    padding: 100px;
+    border-radius: 20px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.github{
+    background-color: #f08725;
+    text-align: center;
+    border-radius: 20px;
+    width: 20%;
+    margin: 100px auto;
+}
